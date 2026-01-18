@@ -1,0 +1,75 @@
+/* Purple City Tech — Base Styles */
+
+:root {
+  --bg: #0f0f14;
+  --text: #eaeaf0;
+  --muted: #b3b3c6;
+  --accent: #7c4dff; /* purple */
+  --border: #2a2a38;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin-right: 0.75rem;
+  font-weight: 500;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1rem 0 2rem;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+  margin-top: 0;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+.build-card {
+  border: 1px solid var(--border);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+}
+
+.status {
+  font-weight: bold;
+}
+
+.status.Available {
+  color: #4caf50;
+}
+
+.status.Sold {
+  color: #ff5252;
+}
