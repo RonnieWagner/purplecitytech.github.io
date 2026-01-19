@@ -1,7 +1,7 @@
 title: Purple City Tech
 description: Custom Gaming PCs & IT Solutions
 baseurl: ""
-url: https://ronniewagner.github.io
+url: https://purplecity.tech
 collections:
   builds:
     output: true
