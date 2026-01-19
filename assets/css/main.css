@@ -1,4 +1,4 @@
-/* Base reset */
+›/* Base reset */
 * {
   box-sizing: border-box;
 }
@@ -14,7 +14,7 @@ body {
 
 /* Layout container */
 .container {
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 2rem 1.25rem;
 }
