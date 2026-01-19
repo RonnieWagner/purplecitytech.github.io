@@ -61,3 +61,34 @@ h1, h2, h3 {
   font-size: 0.9rem;
 }
 
+/* Builds grid */
+.build-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.build-card {
+  border: 1px solid #e5e5e5;
+  padding: 1.25rem;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.build-card h3 {
+  margin-top: 0;
+}
+
+.status {
+  font-weight: 600;
+}
+
+.status.Available {
+  color: #1a7f37;
+}
+
+.status.Sold {
+  color: #b42318;
+}
+
