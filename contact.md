@@ -4,12 +4,26 @@ title: Contact
 permalink: /contact.html
 ---
 
-## Contact
+<div class="contact">
 
-For inquiries about custom builds, availability, or partnerships:
+Have a question about a custom build, availability, or local technical support?
+Reach out — you’ll hear back directly, without pressure or sales tactics.
+
+---
+
+### Email
 
 📧 **business@purplecity.tech**
 
-You can also reach us on Instagram:  
-📸 **@purplecitytech**
+Best for detailed questions, build inquiries, or partnerships.  
+We typically respond within 1–2 business days.
 
+---
+
+### Instagram
+
+📸 [@purplecitytech](https://instagram.com/purplecitytech)
+
+Feel free to DM us for quick questions, recent builds, or availability updates.
+
+</div>
