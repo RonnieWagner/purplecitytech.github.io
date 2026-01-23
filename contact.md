@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact.html
 ---
 
-<div class="contact">
+## Contact Purple City Tech
 
-Have a question about a custom build, availability, or local technical support?
+Have a question about a custom build, availability, or local technical support?  
 Reach out — you’ll hear back directly, without pressure or sales tactics.
 
 ---
@@ -25,5 +25,3 @@ We typically respond within 1–2 business days.
 📸 [@purplecitytech](https://instagram.com/purplecitytech)
 
 Feel free to DM us for quick questions, recent builds, or availability updates.
-
-</div>

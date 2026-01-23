@@ -217,21 +217,16 @@ h1, h2, h3 {
 }
 
 /* Contact page */
-.contact {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 2rem 1.25rem;
-}
-
-.contact h2 {
+main h2 {
   margin-bottom: 0.75rem;
 }
 
-.contact h3 {
+main h3 {
   margin-top: 2.5rem;
 }
 
-.contact p {
-  color: #444;
+main p {
+  max-width: 700px;
   line-height: 1.6;
+  color: #444;
 }
