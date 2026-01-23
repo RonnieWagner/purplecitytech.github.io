@@ -59,6 +59,16 @@ h1, h2, h3 {
   line-height: 1.25;
 }
 
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+
 /* Footer (for later) */
 .site-footer {
   margin-top: 4rem;
@@ -66,6 +76,33 @@ h1, h2, h3 {
   border-top: 1px solid #e5e5e5;
   color: #666;
   font-size: 0.9rem;
+}
+
+/* Page content rhythm */
+main > h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Reading comfort */
+main p {
+  max-width: 720px;
+}
+
+/* Section dividers */
+main hr {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 3rem 0;
+}
+
+main > h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+main > p {
+  margin-bottom: 1.25rem;
 }
 
 /* Buttons */
